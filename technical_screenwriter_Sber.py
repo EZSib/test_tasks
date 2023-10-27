@@ -1,4 +1,3 @@
-
 import json
 from _datetime import datetime as dt
 '''Задание
